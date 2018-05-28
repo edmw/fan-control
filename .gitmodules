@@ -1,0 +1,3 @@
+[submodule "Driver/src/OS"]
+	path = Driver/src/OS
+	url = https://github.com/edmw/arduino-os.git
